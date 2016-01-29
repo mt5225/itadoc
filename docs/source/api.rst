@@ -93,7 +93,7 @@ Local Commandline API
 HPSA rosh API
 ^^^^^^^^^^^^^
 
-HPSA rosh API run remote command on target via HP Server Automation(HPSA) rosh utility, for details about rosh and HPSA, plesae refer to `HPSA officiall document <http://www8.hp.com/us/en/software-solutions/server-automation-software/>`.
+HPSA rosh API run remote command on target via HP Server Automation(HPSA) rosh utility, for details about rosh and HPSA, plesae refer to :ref:`HPSA officiall document <http://www8.hp.com/us/en/software-solutions/server-automation-software/>`.
 
 * Request Header, see :ref:`here <header-label>` 
 
